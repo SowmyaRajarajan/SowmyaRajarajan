@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Sowmiya 🚀
+# 👋 Hello World! I'm Sowmya 🚀
 
 🎓 **Freshman in IT** | 💻 **Frontend Enthusiast** | ☁️ **DevOps Learner**  
 🔥 *Turning coffee into code since 2023* ☕
